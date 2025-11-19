@@ -1,4 +1,5 @@
-	
+![Homepage Image](https://github.com/rabbi007/Kids-Toy-Store-Platform/blob/main/src/assets/ToyPark.jpg)
+
 # "ToyPark - A Local Kids Toy Store"
 
 ## Project Overview:
