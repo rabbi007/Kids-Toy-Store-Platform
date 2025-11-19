@@ -11,7 +11,7 @@ The purpose of **ToyPark** is to create a fun, engaging, and secure environment 
 
 ## Live URL: https://toytopia-rabbi.netlify.app/
 
-## Github Repo link: https://github.com/programming-hero-web-course2/b12-a9-firesheild-rabbi007.git
+## Github Repo link: https://github.com/rabbi007/Kids-Toy-Store-Platform.git
 
 ## Key Features:
 
@@ -36,6 +36,48 @@ The purpose of **ToyPark** is to create a fun, engaging, and secure environment 
 8. **swiper**: A powerful slider component used for implementing the carousel/slider on the homepage.
 9. **react-spinners**: To show loading spinners during data fetching or during processing of requests.
 
+Run the Project Locally
+
+To run this project on your local machine, follow these steps:
+
+1. Clone the Repository
+
+Clone the repository to your local machine:
+
+git clone https://github.com/rabbi007/Kids-Toy-Store-Platform.git
+
+2. Install Dependencies
+
+Navigate to the project folder and install the required dependencies:
+
+cd Kids-Toy-Store-Platform
+npm install
+
+3. Set Up Firebase
+
+Create a project on Firebase
+.
+
+Set up Authentication with email/password and Google sign-in.
+
+Obtain your Firebase configuration keys and add them to the firebaseConfig.js file in your project.
+
+4. Run the Project
+
+After setting up Firebase, you can start the development server:
+
+npm start
+
+
+This will start the project locally, and you can access it by visiting http://localhost:5173/.
+
+Notes:
+
+Ensure you have Node.js and npm installed on your machine.
+
+Make sure to configure Firebase correctly for both authentication and data management.
+
+If you run into any issues, feel free to open an issue on the GitHub repository.
 
 ### Writer:- 
 Name:   Khandaker Reza-e-Rabbi;
