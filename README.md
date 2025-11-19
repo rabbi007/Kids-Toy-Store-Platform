@@ -37,7 +37,7 @@ The purpose of **ToyPark** is to create a fun, engaging, and secure environment 
 8. **swiper**: A powerful slider component used for implementing the carousel/slider on the homepage.
 9. **react-spinners**: To show loading spinners during data fetching or during processing of requests.
 
-Run the Project Locally
+### Run the Project Locally
 
 To run this project on your local machine, follow these steps:
 
@@ -72,7 +72,7 @@ npm start
 
 This will start the project locally, and you can access it by visiting http://localhost:5173/.
 
-Notes:
+### Notes:
 
 Ensure you have Node.js and npm installed on your machine.
 
